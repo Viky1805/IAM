@@ -72,7 +72,8 @@ To implement identity and access management (IAM) in AWS to securely control acc
 
 ## 1.IAM Group Creation
 
-<img width="1920" height="1200" alt="1" src="https://github.com/user-attachments/assets/b8d210a4-6ca5-40ff-97d5-b7c3d33f5c2f" />
+<img width="1917" height="1087" alt="image" src="https://github.com/user-attachments/assets/4b6e33a6-c13b-490e-8f0d-53843a4fa485" />
+
 
 ## 2.Attach an IAM Policy to the group
 
@@ -95,31 +96,6 @@ To implement identity and access management (IAM) in AWS to securely control acc
 
 
 ---
-
-## Result
-
-Successfully implemented identity and access management using Amazon IAM for secure team collaboration and controlled access to AWS resources.
-
-
-## 2.Attach an IAM Policy to the group
-
-<img width="1920" height="1200" alt="2" src="https://github.com/user-attachments/assets/a9c8e6d8-d05c-4d34-ae1a-c867112b278b" />
-
-## 3.Create an IAM User
-
-<img width="1920" height="1200" alt="3" src="https://github.com/user-attachments/assets/307c3eed-662b-4f71-8488-d13ba3e5f16a" />
-
-## 4.Add The user to the IAM Group
-
-<img width="1920" height="1200" alt="4" src="https://github.com/user-attachments/assets/6385b7a1-b8b5-4598-9057-1e2b8493c731" />
-
-## 5.Verify user Permissions
-
-<img width="1920" height="1200" alt="5" src="https://github.com/user-attachments/assets/20c5b4c9-c4bf-44b7-bd33-0d1c4f6af77e" />
-
-## 6.Verify Least-Privilege Access
-
-<img width="1920" height="1200" alt="6" src="https://github.com/user-attachments/assets/c47de2dc-5dce-4ecb-b6d4-55cb3ab01f19" />
 
 
 ---
