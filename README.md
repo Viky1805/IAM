@@ -93,7 +93,7 @@ To implement identity and access management (IAM) in AWS to securely control acc
 
 ## 6.Verify Least-Privilege Access
 
-<img width="1920" height="1200" alt="6" src="https://github.com/user-attachments/assets/c47de2dc-5dce-4ecb-b6d4-55cb3ab01f19" />
+<img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/142f9e86-2a2a-4bd9-a415-f392e1e80de7" />
 
 
 ---
