@@ -68,7 +68,7 @@ To implement identity and access management (IAM) in AWS to securely control acc
 
 ---
 
-### Outcome
+### Output
 
 ## 1.IAM Group Creation
 
@@ -76,6 +76,8 @@ To implement identity and access management (IAM) in AWS to securely control acc
 
 
 ## 2.Attach an IAM Policy to the group
+
+<img width="1917" height="1091" alt="image" src="https://github.com/user-attachments/assets/eea5cd0d-abe0-443f-88f1-6075cfe29c19" />
 
 
 ## 3.Create an IAM User
