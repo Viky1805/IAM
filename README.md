@@ -83,14 +83,13 @@ To implement identity and access management (IAM) in AWS to securely control acc
 
 <img width="1917" height="1096" alt="image" src="https://github.com/user-attachments/assets/7cdaa3e7-f5d9-4a3b-830c-2c0b09d6625c" />
 
-
 ## 4.Add The user to the IAM Group
 
-<img width="1920" height="1200" alt="4" src="https://github.com/user-attachments/assets/6385b7a1-b8b5-4598-9057-1e2b8493c731" />
+<img width="1917" height="1095" alt="image" src="https://github.com/user-attachments/assets/8d7e6f27-3b3c-4571-8f66-23fb78710064" />
 
 ## 5.Verify user Permissions
 
-<img width="1920" height="1200" alt="5" src="https://github.com/user-attachments/assets/20c5b4c9-c4bf-44b7-bd33-0d1c4f6af77e" />
+<img width="1917" height="1092" alt="image" src="https://github.com/user-attachments/assets/7eab34b2-901b-4057-9757-331baf0ac543" />
 
 ## 6.Verify Least-Privilege Access
 
